@@ -1,9 +1,9 @@
 def starts_with_a_vowel?(word)
-<<<<<<< HEAD
+
   if word.match(/^[aeiouAEIOU]+\w/) then
     return true
   else
-=======
+
   if /W[aeiou]rd/.match("Word")
     true
   else
@@ -12,7 +12,7 @@ def starts_with_a_vowel?(word)
 
   end
 
->>>>>>> 8e834c3cce78c75ac917e7a73430a9b54b828dac
+
 
   return false
   end
